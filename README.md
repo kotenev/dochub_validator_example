@@ -1,2 +1,5 @@
-# dochub_validator_example
-Простой пример валидации сущности в DocHub
+# Простой пример валидации сущностей в DocHub
+
+Почитать о DocHub можно здесь: https://dochub.info/
+
+Основная репа здесь: https://github.com/RabotaRu/DocHub
